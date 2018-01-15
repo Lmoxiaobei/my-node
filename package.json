@@ -1,0 +1,23 @@
+{
+  "name": "my-node",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d _book"
+  },
+  "homepage": "https://github.com/Lmoxiaobei/my-node#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmoxiaobei/my-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmoxiaobei/my-node/issues"
+  }
+}
