@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d _book"
   },
-  "homepage": "https://github.com/Lmoxiaobei/my-node#readme",
+  "homepage": "https://Lmoxiaobei/github.io/my-node",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lmoxiaobei/my-node.git"
