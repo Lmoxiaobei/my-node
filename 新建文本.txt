@@ -1,3 +1,5 @@
 命令行指令
 gitbook serve
-https://Lmoxiaobei.github.io/my-node
+https://lmoxiaobei.github.io/vue-new/
+
+再次使用后在命令行内不能打开,以后也基本不在使用gitbook而是使用语雀即可
